@@ -1,0 +1,9 @@
+{
+"Date": "2024-11-08 AM 11:17:02",
+"UnityVersion": "2020.3.36f1",
+"com.unity.scriptablebuildpipeline": "1.19.2",
+"com.unity.addressables": "1.18.19",
+"traceEvents": [
+{"name": "Building Use Existing Build (requires built groups)", "ph": "X", "dur": 1896, "tid": 1, "ts": 4833, "pid": 1}
+]
+}
